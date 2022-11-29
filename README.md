@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mejahed Soufiane
 - 👀 I’m interested in computer science and Big Data. 
 - 🌱 I’m currently learning React Node JS && Dart && flutter.
-- 💞️ I’m looking to collaborate :) 
 - 📫 How to reach me : mejahedsoufiane@gmail.com
 
 <!---
